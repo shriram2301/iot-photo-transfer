@@ -1,0 +1,22 @@
+{
+  "name": "iot-photo-transfer",
+  "version": "1.0.0",
+  "description": "This code is the endpoint that will take the photos sent by sensors via HTTP and save them into the processing folders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shriram2301/iot-photo-transfer.git"
+  },
+  "author": "Shriram Ramanujam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shriram2301/iot-photo-transfer/issues"
+  },
+  "homepage": "https://github.com/shriram2301/iot-photo-transfer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
